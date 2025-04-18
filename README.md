@@ -1,8 +1,11 @@
 # 💹 Forex Price Prediction Platform
 
 A comprehensive platform for forecasting Forex prices, detecting arbitrage opportunities, optimizing currency portfolios, and visualizing key financial metrics — all powered by deep learning and modern web technologies.
+![image](https://github.com/user-attachments/assets/38582332-5347-42af-b511-88aafd6042a7)
 
 ---
+![image](https://github.com/user-attachments/assets/9b0c6957-eae4-490c-ac68-b6c4eb104de7)
+![image](https://github.com/user-attachments/assets/56560b8c-4510-4ea0-9a11-dc13c0e4eb1c)
 
 ## 🔍 Overview
 
